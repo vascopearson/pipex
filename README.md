@@ -6,7 +6,7 @@
 by using it in your program.<br/>
 > This is Version 2 of this project<br/>
 
-For detailed information, refer to the [**subject of this project**](https://github.com/vascopearson/minitalk/blob/master/minitalk_subject.pdf).
+For detailed information, refer to the [**subject of this project**](https://github.com/vascopearson/pipex/blob/master/pipex_subject.pdf).
 
 ## 🛠️ Usage
 
